@@ -1,5 +1,5 @@
 # SinfoniaMT4-Builder-EA-Model
-Modello base per creare la logica dell'EA per mezzo del Builder di [Sinfonia MT4](http://sinfoniamt4.altervista.org/) 
+Modello base per creare la logica dell'EA per mezzo del Builder di [Sinfonia MT4](http://sinfoniamt4.altervista.org/builder.php) 
 
 I Segnaposti sono utilizzati nel file "Sinfonia.mq4" per rendere il modello utilizzabile con il Builder :
 
