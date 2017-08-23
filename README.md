@@ -10,5 +10,5 @@ I Segnaposti sono utilizzati nel file "Sinfonia.mq4" per rendere il modello util
 
 Di fatto sono gli unici parametri che il builder utilizza per personalizzare la strategia, il nome del progetto, eventuali variabili, in fine le logiche di apertura buy e sell.
 
-[DISCLAIMER ( IT )](http://j.mp/2a9gqBw) 
+[DISCLAIMER ( IT )](http://sinfoniamt4.altervista.org/disclaimer/?utm_content=github&utm_medium=readme&utm_source=github.com&utm_campaign=opensource) 
 
